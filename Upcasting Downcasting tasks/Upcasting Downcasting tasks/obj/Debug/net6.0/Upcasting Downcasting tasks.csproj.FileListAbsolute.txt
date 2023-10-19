@@ -1,0 +1,14 @@
+C:\Users\Murad\Desktop\Task_Interface_Static\Upcasting Downcasting tasks\Upcasting Downcasting tasks\bin\Debug\net6.0\Upcasting Downcasting tasks.exe
+C:\Users\Murad\Desktop\Task_Interface_Static\Upcasting Downcasting tasks\Upcasting Downcasting tasks\bin\Debug\net6.0\Upcasting Downcasting tasks.deps.json
+C:\Users\Murad\Desktop\Task_Interface_Static\Upcasting Downcasting tasks\Upcasting Downcasting tasks\bin\Debug\net6.0\Upcasting Downcasting tasks.runtimeconfig.json
+C:\Users\Murad\Desktop\Task_Interface_Static\Upcasting Downcasting tasks\Upcasting Downcasting tasks\bin\Debug\net6.0\Upcasting Downcasting tasks.dll
+C:\Users\Murad\Desktop\Task_Interface_Static\Upcasting Downcasting tasks\Upcasting Downcasting tasks\bin\Debug\net6.0\Upcasting Downcasting tasks.pdb
+C:\Users\Murad\Desktop\Task_Interface_Static\Upcasting Downcasting tasks\Upcasting Downcasting tasks\obj\Debug\net6.0\Upcasting Downcasting tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\Task_Interface_Static\Upcasting Downcasting tasks\Upcasting Downcasting tasks\obj\Debug\net6.0\Upcasting Downcasting tasks.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\Task_Interface_Static\Upcasting Downcasting tasks\Upcasting Downcasting tasks\obj\Debug\net6.0\Upcasting Downcasting tasks.AssemblyInfo.cs
+C:\Users\Murad\Desktop\Task_Interface_Static\Upcasting Downcasting tasks\Upcasting Downcasting tasks\obj\Debug\net6.0\Upcasting Downcasting tasks.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\Task_Interface_Static\Upcasting Downcasting tasks\Upcasting Downcasting tasks\obj\Debug\net6.0\Upcasting Downcasting tasks.dll
+C:\Users\Murad\Desktop\Task_Interface_Static\Upcasting Downcasting tasks\Upcasting Downcasting tasks\obj\Debug\net6.0\refint\Upcasting Downcasting tasks.dll
+C:\Users\Murad\Desktop\Task_Interface_Static\Upcasting Downcasting tasks\Upcasting Downcasting tasks\obj\Debug\net6.0\Upcasting Downcasting tasks.pdb
+C:\Users\Murad\Desktop\Task_Interface_Static\Upcasting Downcasting tasks\Upcasting Downcasting tasks\obj\Debug\net6.0\Upcasting Downcasting tasks.genruntimeconfig.cache
+C:\Users\Murad\Desktop\Task_Interface_Static\Upcasting Downcasting tasks\Upcasting Downcasting tasks\obj\Debug\net6.0\ref\Upcasting Downcasting tasks.dll
